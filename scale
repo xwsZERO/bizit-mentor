@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Магазин Zero</title>
+  <style>
+    body { font-family: Arial; text-align: center; background: #f3f3f3; }
+    .card { background: white; margin: 50px auto; padding: 20px; width: 300px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+    button { background: #007bff; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; }
+    button:hover { background: #0056b3; }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>Продажа кроссовок</h1>
+    <img src="https://via.placeholder.com/250" alt="Кроссовки" width="100%" />
+    <p>Стильные кроссовки — 450,000 сум</p>
+    <button>Купить в Telegram</button>
+  </div>
+</body>
+</html>
